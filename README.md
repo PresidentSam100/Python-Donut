@@ -1,2 +1,3 @@
 # Python-Donut
-ASCII Donut made to look 3D
+
+Program I made in a few hours to use ASCII for 3D donut.
